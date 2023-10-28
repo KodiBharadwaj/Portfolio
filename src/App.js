@@ -30,7 +30,10 @@ function App() {
                         <p><a href="https://www.codingninjas.com/studio/profile/93cc4988-0e24-4553-ba04-46ff6650a487" target="_blank" rel="noopener noreferrer"><h3>Code Studio</h3></a></p>
                     </div>
                     <div className="contact-box">
-                        <p><a href="https://mern-chat-messenger-or2l.onrender.com/" target="_blank" rel="noopener noreferrer"><h3>Project</h3></a></p>
+                        <p><a href="https://mern-chat-messenger-or2l.onrender.com/" target="_blank" rel="noopener noreferrer"><h3>Project 1</h3></a></p>
+                    </div>
+                    <div className="contact-box">
+                        <p><a href="https://kodibharadwaj.github.io/sudoku/" target="_blank" rel="noopener noreferrer"><h3>Project 2</h3></a></p>
                     </div>
                 </div>
             </div>
